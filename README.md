@@ -1,7 +1,7 @@
 # BATTLE.NET 2FA With Open Source OTP App
 
 A [nix flake](https://nixos.org/manual/nix/stable/command-ref/new-cli/nix3-flake.html) providing the necessary python environment to allow registering 2FA apps on 
-battle.net without needing Blizzard's propietary app.
+battle.net without needing Blizzard's proprietary app.
 
 ## How to use
 
